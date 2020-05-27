@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[0],{1270:function(n,t,e){"use strict";e.r(t);var i=e(58),o=e(3);i.addons.setConfig({panelPosition:"right",theme:Object(o.create)({base:"light",brandTitle:"Alauda UI"})})},474:function(n,t,e){e(475),e(618),e(1270),e(1271),e(1273),e(1379),e(1384),n.exports=e(1387)},537:function(n,t){}},[[474,1,2]]]);
